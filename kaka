@@ -1,0 +1,12 @@
+nama="Budi"
+umur=19
+ipk=3,6
+nilai=[50,70,100]
+hobi=("Ngoding","Trading","Futsal")
+mobil={'mclaren':'kuning', 'no_plat':1}
+
+print(nama,type(nama))
+print(umur,type(umur))
+print(ipk,type(ipk))
+print(hobi,type(hobi))
+print(mobil,type(mobil))
